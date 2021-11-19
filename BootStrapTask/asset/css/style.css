@@ -1,0 +1,131 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo-name .image a img 
+{
+    width: 31px;
+    height: 30px;
+}
+.navigation-tools ul li 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;       
+    color: grey;
+    width: 46px;
+    height: 40px;
+    border: solid rgba(0,0,0,0.1);        
+}
+.navigation-tools ul li:nth-child(3)
+{
+    width: 181px;
+    height: 40px;
+}
+.Getstarted 
+{
+    width: 140px;
+    height: 45px;
+    background-color: orange;
+}
+.mediumline
+{
+    height: 45px;
+    background-color: rgb(68, 48, 48);
+}
+.mediumline .contactinfo
+{
+    margin-left: 300px;
+}
+.mediumline .contactinfo a
+{    
+    color: white;
+}
+.mediumline .contactinfo :hover
+{
+    color: orange;
+}
+.mediumline .Getstarted
+{
+    margin-right: 400px;
+}
+header nav .navlinks ul 
+{
+    display: none;
+}
+header nav .navlinks ul :hover ul
+{
+ display: block;
+}
+header nav .navlinks ul li ul li ul li
+{
+    display: none;
+}
+
+#name 
+{
+    color:  rgb(68, 48, 48);
+    font-size: 32px;
+}
+header nav .navlinks ul li a
+{
+    color: rgb(68, 48, 48);    
+}
+header nav .navlinks ul li  :hover
+{
+    color: orange
+}
+
+.whychoose 
+{
+    width: 480px;
+    height: 480px;
+    background-color: orange;
+    color: white;
+    border-radius: 3%;
+    display: relative;
+}
+/* .whychoose .learnmore 
+{
+    
+    width: 164px;
+    height: 38px;    
+    border-radius: 20%;
+    background-color: white;
+    opacity: 0.4;
+} */
+/* .whychoose .learnmore :hover
+{
+    background-color: white;
+} */
+
+.corporis
+{
+    
+    width: 300px;
+    height: 350px;
+    margin-left: 15px;
+    background-color: white;
+    border-radius: 3%;
+}
+#first
+{
+    height: 150vh;
+    margin-left: 100px;
+    background-image: url(https://www.quietrev.com/wp-content/uploads/2017/07/Group-Work-That-Works_SOURCE_istockphoto.jpg);
+    width: 100vw;
+    background-repeat: no-repeat;
+}
+
+.start 
+{
+    color: white;
+}
+
+body 
+{
+    height: 700vh;
+
+}
